@@ -9,7 +9,7 @@ Once you have set up an account through Twilio, you will recieve a new phone num
 Otherwise the code is very simple and adaptable. Mine sends text upon completion or sends a message when an error occurs. 
 
 # Slack message upon completion of Stata .do files
-This from a peer in BYU Economics Department and Record Linking Lab that sends a message to your Slack once a Stata .do file is finished. Below is both the accredidation and original text of the repository ReadMe. 
+This from a peer in BYU Economics Department and Record Linking Lab that sends a message to your Slack once a Stata .do file is finished. Below is both the accredidation and original text of the repository ReadMe. Tommy quoted this from the original author, you can see Tommy's other work at https://github.com/tmorg46. 
 
 *Coming soon: Using Slack messaging SDK to send text or email for script notificatons via Python*
 
